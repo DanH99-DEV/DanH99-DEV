@@ -34,8 +34,8 @@ Apasionado por crear soluciones escalables y seguras, optimizando procesos en la
 ---
 
 ## 📊 Estadísticas de GitHub
-![Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=danh99-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danh99-dev&layout=compact&theme=tokyonight)
 
 ---
 
